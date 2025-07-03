@@ -1,16 +1,24 @@
-## Hi there 👋
+```powershell
+PS C:\Users\loganithink> systeminfo
+```
 
-<!--
-**loganithink/loganithink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" src="ianxxlverse.png" alt="four" width="320" />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```powershell
+Host Name:      loganithink
+OS Name:        Windows 11 Pro x64
+Shell:          PowerShell 7.4
+Quote:          "Damn, we rollin' hella deep, 
+                I feel like Adele"
+Location:       United States
+Role:           Digital Archivist,
+                Hobby Developer
+Project:        The PopCap Archive
+Languages:      JavaScript, Python, C++,
+                Bash, PHP
+Learning:       Node.js, Express, React
+Hobbies:        Game preservation, Music,
+                Retro software, Web stuff
+Email:          logan@savepopcap.org
+Website:        savepopcap.org
+```
